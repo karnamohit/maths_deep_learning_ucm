@@ -1,2 +1,2 @@
 # maths_deep_learning_ucm
-Codes for MATH 292: Written and modified with Shrishail Baligar (sbaligar@ucmerced.edu)
+Codes for MATH 292 (Fall 2017): Written and modified with Shrishail Baligar (sbaligar@ucmerced.edu)
